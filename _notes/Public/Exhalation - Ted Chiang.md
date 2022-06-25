@@ -1,7 +1,7 @@
 ---
 title : Exhalation (Ted Chiang)
 feed: show
-date : 26-06-2022
+date : 24-06-2022
 ---
 
 ![Portada](/assets/img/tedchiang_exhalation.jpg "Portada del libro")
