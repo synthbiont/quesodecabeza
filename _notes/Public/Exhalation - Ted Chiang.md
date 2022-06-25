@@ -1,10 +1,10 @@
 ---
-title : Exhalation (Ted Chiang)
+title : Exhalation
 feed: show
 date : 26-06-2022
 ---
 
-
+![Portada](/assets/img/tedchiang_exhalation.jpg "Portada del libro")
 
 **Empezado el:** 30 de mayo de 2022
 **Terminado el:**  19 de junio de 2022
@@ -30,6 +30,8 @@ Los siguientes tres cuentos son un gran ejemplo de lo fantástica que es la imag
 > People are made of stories. Our memories are not the impartial accumulation of every second we've lived: they're the narrative that we assembled out of selected moments. Which is why, even when we've experienced the same events as other individuals, we never constructed identical narratives: the criteria user for selecting moments were different for each of us, and a areflection of our personalities. Each of us noticed the details that caught our attention and remembered what was important to us, and the narratives we built shaped our personalities in turn.
 
 *El gran silencio* es un juego corto que nos cuestiona la necesidad de buscar inteligencia en otras partes del universon mientras no somos capaces de evitar la destrucción de hábitats y la extinción de especies en nuestro planeta. Este cuento es una adaptación de lo que Ted Chiang escribió para una instalación de video del mismo nombre que pueden ver [aquí](https://vimeo.com/195588827).
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/195588827?h=dcc58f5943&color=ff9933" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 > It's no coincidence that "aspiration" means both hope and the act of breathing.
 > When we speak, we use the breath in our lungs to give our thoughts a physical form. The sounds we make are simultaneously our intentions and our life force.
