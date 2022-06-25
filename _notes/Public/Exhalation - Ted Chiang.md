@@ -1,5 +1,5 @@
 ---
-title : Exhalation (Ted Chiang)
+title : Exhalation
 feed: show
 date : 26-06-2022
 ---
