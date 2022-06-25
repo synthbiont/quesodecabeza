@@ -1,8 +1,8 @@
 ---
 layout: Post
-permalink: /lists
-title: List of Lists
+permalink: /listas
+title: Lista de listas
 feedformat: row
 ---
 
-List of all list!
+Lista de todas las listas!
