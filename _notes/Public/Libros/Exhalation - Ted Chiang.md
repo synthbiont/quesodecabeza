@@ -7,6 +7,7 @@ date: 25-06-2022
 ![Portada](/assets/img/tedchiang_exhalation.jpg "Portada del libro")
 
 **Empezado el:** 30 de mayo de 2022.
+
 **Terminado el:**  19 de junio de 2022.
 
 La primera vez que leí el nombre Ted Chiang fue después de haber visto la película Arrival. Esta película, basada en el cuento *Story of your life*, es una de mis películas favoritas de ciencia ficción, con una historia muy humana sobre la pérdida y el duelo. Y aunque es mucho más optimista que la visión de Stanislaw Lem sobre los contactos extraterrestes, me dejó la misma sensación de lo difícil que podría ser comunicarse con habitantes de otros mundos.
