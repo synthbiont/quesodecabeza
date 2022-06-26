@@ -1,5 +1,5 @@
 ---
-title: Exhalation - Ted Chiang
+title: Musus - Ted Chiang
 feed: show
 date: 25-06-2022
 ---
