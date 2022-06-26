@@ -14,4 +14,4 @@ Testing [[Exhalation - Ted Chiang]]
 
 Testing [[Musus]]
 
-Testing [[Creditos]]
+Testing [[Créditos]]
