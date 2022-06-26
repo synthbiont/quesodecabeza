@@ -27,7 +27,7 @@ baseurl: ""
 
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
-heading: Queso de cabeza
+heading: Queso de Cabeza
 content: Un jardín digital
 copyright:  
   year: © 2022
